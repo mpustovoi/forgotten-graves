@@ -69,7 +69,7 @@
   "grave.coordinates": "XYZ: %d %d %d",
 
   "forgottengraves.normal": "Забытые могилы",
-  "forgottengraves.small": "[G] ",
+  "forgottengraves.small": "[ЗМ] ",
   "error.prefix": "Ошибка: ",
 
   "command.generic:error.not-yet-implemented": "Эта команда еще не была реализована.",
@@ -113,9 +113,9 @@
   "command.list.header": "Могилы для %s:",
   "command.list.entry.tooltip": "Измерение: %s\nИдентификатор: %d\nСоздана: %s\nВосстановлена: %s",
   "command.list.entry.tooltip.click-to-teleport": "\nНажмите, чтобы телепортироваться к этой могиле.",
-  "command.list.entry.restore-button": "[R]",
+  "command.list.entry.restore-button": "[В]",
   "command.list.entry.restore-button.tooltip": "Нажмите, чтобы восстановить могилу %d для %s.",
-  "command.list.entry.delete-button": "[D]",
+  "command.list.entry.delete-button": "[У]",
   "command.list.entry.delete-button.tooltip": "Нажмите, чтобы удалить могилу %d из хранилища.",
 
   "command.players.beginning": "Игроки с могилами: ",
